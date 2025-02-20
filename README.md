@@ -2,6 +2,8 @@
 
 My name is Sergio A. Martinez, Software Developer and Entrepreneur.
 
+[![Coding For Nothing](https://codingfornothing.com/merch/CfN_logo_only_tf.png)](https://codingfornothing.com)
+
 <img align='right' src="./assets/sergio_martinez.jpg" width="230">
 
 [![Linkedin: samart](https://img.shields.io/badge/-sergio%20a%20martinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samart)](https://www.linkedin.com/in/samart)
