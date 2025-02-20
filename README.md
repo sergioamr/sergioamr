@@ -2,7 +2,7 @@
 
 My name is Sergio A. Martinez, Software Developer and Entrepreneur.
 
-[![Coding For Nothing](https://codingfornothing.com/merch/CfN_logo_only_tf.png)](https://codingfornothing.com)
+[![Coding For Nothing](https://codingfornothing.com/merch/CfN_logo_1_green_text.png)](https://codingfornothing.com)
 
 <img align='right' src="./assets/sergio_martinez.jpg" width="230">
 
